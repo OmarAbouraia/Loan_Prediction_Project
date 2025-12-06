@@ -117,3 +117,21 @@ The model was tested on a real-world inspired subgroup:
 ---
 
 ## 📁 Repository Structure
+├── Datasets/
+│ └── New Customer.csv
+  └── Train data.csv
+│
+├── Codes/
+│ ├── Models_20.ipynb
+│ ├── Models_20.py
+│ └── Preprocessing.py
+│
+├── Outputs/
+│ └── Preprocessed.csv
+  └── loan_status_predictions.csv
+│
+├── reports/
+│ ├── preproccesed_report.pdf
+│ └── Loan Prediction Project.pdf
+│
+└── README.md
