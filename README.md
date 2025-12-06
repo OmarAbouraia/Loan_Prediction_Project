@@ -115,4 +115,32 @@ The model was tested on a real-world inspired subgroup:
 → The model generalizes well and behaves realistically.
 
 ---
+## 👥 Team Members  
+Team 20 — Ain Shams University (Faculty of Computer and Artificial Intelligence Engineering)
+- AbdelRahman Adel  
+- Omar Ahmed 
+- Jana Hussien 
+- Mariam Ibrahim  
+- Hla Waleed  
+- Malak Khaled  
+- Kenzy Tarek  
+
+---
+
+## 🏁 Conclusion  
+This project successfully delivers a complete machine learning pipeline for loan prediction:
+
+✔ Clean data preprocessing  
+✔ Robust modeling experiments  
+✔ Advanced imbalance-handling techniques  
+✔ A validated, interpretable final model  
+✔ A full deployment-ready prediction workflow  
+
+This work demonstrates solid understanding in:  
+**Data mining, feature engineering, model evaluation, and practical ML deployment.**
+
+---
+
+## 📬 Contact  
+For inquiries or contributions, feel free to reach out via GitHub Issues or via Email: omara862005@gmail.com
 
