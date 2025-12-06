@@ -118,7 +118,7 @@ The model was tested on a real-world inspired subgroup:
 ## 👥 Team Members  
 Team 20 — Ain Shams University (Faculty of Computer and Artificial Intelligence Engineering)
 - AbdelRahman Adel  
-- Omar Ahmed 
+- Omar Abouraia
 - Jana Hussien 
 - Mariam Ibrahim  
 - Hla Waleed  
