@@ -117,13 +117,12 @@ The model was tested on a real-world inspired subgroup:
 ---
 ## 👥 Team Members  
 Team 20 — Ain Shams University (Faculty of Computer and Artificial Intelligence Engineering)
-- AbdelRahman Adel  
-- Omar Abouraia
-- Jana Hussien 
-- Mariam Ibrahim  
-- Hla Waleed  
-- Malak Khaled  
-- Kenzy Tarek  
+- [Omar Abouraia](https://github.com/OmarAbouraia)
+- [AbdelRahman Adel](https://github.com/AbdelrahmanAdel-1)
+- [Jana Khodeir](https://github.com/janakhodeir)
+- [Mariam Ibrahim](https://github.com/mariamibrahim369)
+- [Malak Khaled](https://github.com/malaakkhaledd)  
+- [Kenzy Tarek](https://github.com/kenzytarek)
 
 ---
 
